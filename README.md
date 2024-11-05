@@ -40,7 +40,7 @@ Follow these steps to set up and run the unified backend.
 
 ### Prerequisites
 
-- **Java 11** or higher installed.
+- **Java 17** or higher installed.
 - **Maven** for building the project.
 - **Docker** (optional) for containerized deployment.
 - **MySQL** for database setup.
@@ -120,14 +120,7 @@ Unit tests are included for both backend services and API endpoints. Run the tes
 ./mvnw test
 ```
 
-## Contributing
 
-Contributions are welcome. Please follow these steps to contribute:
-
-1. Fork the repository.
-2. Create a feature branch.
-3. Commit your changes.
-4. Open a Pull Request.
 
 ## License
 
@@ -135,5 +128,5 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ## Contact
 
-For questions or support, please contact [your-email@example.com].
+For questions or support, please contact [mdq767@gmail.com].
 
